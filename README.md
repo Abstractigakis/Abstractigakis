@@ -22,6 +22,7 @@ Hub: https://abstractigakis.com/shop-tools
 - [Invoice generator](https://abstractigakis.com/ca/invoice.html)
 - [TFSA / RRSP room](https://abstractigakis.com/ca/tfsa.html)
 - [2026 TFSA $7,000 / RRSP $33,810](https://abstractigakis.com/shop-tools/tfsa-2026)
+- [2026 CPP, CPP2, and EI rates](https://abstractigakis.com/shop-tools/cpp-ei-2026)
 - [HVAC / plumbing website generator](https://abstractigakis.com/ca/build.html)
 
 $49 CAD website pack and $150/month care: https://abstractigakis.com/ca/offer.html
