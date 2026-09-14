@@ -10,7 +10,7 @@ Hub: https://abstractigakis.com/picks
 
 ## Free Canada shop tools
 
-No login. PayPal if they helped.
+No login. PayPal $9 CAD goods-and-services if they helped (Sponsor on this profile, or the button on the tool repos).
 
 Hub: https://abstractigakis.com/shop-tools
 Mirror: https://abstractigakis.github.io/
