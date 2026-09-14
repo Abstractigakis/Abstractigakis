@@ -1,34 +1,33 @@
 # Eric Stratigakis
 
-Vaughan, ON. I ship small tools that run in the browser.
+Vaughan, ON. Browser tools and Amazon.ca buying notes. Not a store.
 
-## Canada buying notes
+## This week
 
-Spec filters for Amazon.ca. Not a store. Not lab tests.
+[Window film for renters before the first freeze](https://abstractigakis.com/picks/window-film) — 2:10 clip, 3M indoor kit, about $25 CAD on Amazon.ca.
 
-Hub: https://abstractigakis.com/picks
+All five notes: https://abstractigakis.com/picks · [github.io mirror](https://abstractigakis.github.io/picks/)
 
-## Free Canada shop tools
+## 2026 Canada rates (MIT)
 
-No login. PayPal $9 CAD goods-and-services if they helped (Sponsor on this profile, or the button on the tool repos).
+Listed in [Awesome Public Datasets](https://github.com/awesomedata/apd-core/blob/master/core/Government/Canada-2026-Tax-Payroll-Rates.yml).
 
-Hub: https://abstractigakis.com/shop-tools
-Mirror: https://abstractigakis.github.io/
+- Docs: https://abstractigakis.com/data
+- JSON: https://abstractigakis.com/rates-2026.json
+- `pip install git+https://github.com/Abstractigakis/canada-2026-tax-rates.git`
 
-- [GST / HST / PST calculator (2026)](https://abstractigakis.com/ca/hst.html)
-- [2026 GST/HST/PST rates by province](https://abstractigakis.com/shop-tools/gst-hst-2026)
-- [Calculatrice TPS / TVH / TVP](https://abstractigakis.com/ca/tvh.html)
-- [CRA mileage allowance](https://abstractigakis.com/ca/km.html)
-- [2026 CRA mileage rates](https://abstractigakis.com/shop-tools/cra-mileage-2026)
-- [Invoice generator](https://abstractigakis.com/ca/invoice.html)
-- [TFSA / RRSP room](https://abstractigakis.com/ca/tfsa.html)
-- [2026 TFSA $7,000 / RRSP $33,810](https://abstractigakis.com/shop-tools/tfsa-2026)
-- [2026 CPP / EI calculator](https://abstractigakis.com/ca/cpp.html)
-- [2026 CPP, CPP2, and EI rates](https://abstractigakis.com/shop-tools/cpp-ei-2026)
-- [Calculatrice RRQ / AE 2026](https://abstractigakis.com/ca/rrq.html)
-- [Taux RRQ 2026](https://abstractigakis.com/shop-tools/rrq-2026)
-- [HVAC / plumbing website generator](https://abstractigakis.com/ca/build.html)
+PayPal $9 CAD goods-and-services if a file or tool saved a lookup (Sponsor on this profile).
 
-$49 CAD website pack and $150/month care: https://abstractigakis.com/ca/offer.html
+## Free shop tools
 
-2026 rates as JSON/CSV: https://abstractigakis.com/rates-2026.json · [gist](https://gist.github.com/Abstractigakis/0ff1b8ee14fe62d6cd4c7c88b5f854b2)
+No login. Not tax advice.
+
+Hub: https://abstractigakis.com/shop-tools · [mirror](https://abstractigakis.github.io/)
+
+- [GST / HST / PST](https://abstractigakis.com/ca/hst.html) · [2026 rates](https://abstractigakis.com/shop-tools/gst-hst-2026)
+- [CRA mileage](https://abstractigakis.com/ca/km.html)
+- [Invoice](https://abstractigakis.com/ca/invoice.html)
+- [TFSA / RRSP](https://abstractigakis.com/ca/tfsa.html)
+- [CPP / EI](https://abstractigakis.com/ca/cpp.html) · [RRQ](https://abstractigakis.com/ca/rrq.html)
+
+$49 pack / $150 month: https://abstractigakis.com/ca/offer.html
