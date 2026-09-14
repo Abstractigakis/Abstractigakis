@@ -13,6 +13,7 @@ Hub: https://abstractigakis.com/picks
 No login. PayPal if they helped.
 
 Hub: https://abstractigakis.com/shop-tools
+Mirror: https://abstractigakis.github.io/
 
 - [GST / HST / PST calculator (2026)](https://abstractigakis.com/ca/hst.html)
 - [2026 GST/HST/PST rates by province](https://abstractigakis.com/shop-tools/gst-hst-2026)
