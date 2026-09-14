@@ -6,14 +6,14 @@ Vaughan, ON. I ship small tools that run in the browser.
 
 No login. PayPal if they helped.
 
-- [GST / HST / PST calculator (2026)](https://abstractigakis.github.io/lead-machine-demo/hst.html)
-- [Calculatrice TPS / TVH / TVP](https://abstractigakis.github.io/lead-machine-demo/tvh.html)
-- [CRA mileage allowance](https://abstractigakis.github.io/lead-machine-demo/km.html)
-- [Invoice generator](https://abstractigakis.github.io/lead-machine-demo/invoice.html)
-- [TFSA / RRSP room](https://abstractigakis.github.io/lead-machine-demo/tfsa.html)
-- [HVAC / plumbing website generator](https://abstractigakis.github.io/lead-machine-demo/build.html)
-- [2026 rates JSON](https://abstractigakis.github.io/lead-machine-demo/rates-2026.json)
+Hub: https://abstractigakis.com/shop-tools
 
-Hub: https://abstractigakis.github.io/lead-machine-demo/tools.html
+- [GST / HST / PST calculator (2026)](https://abstractigakis.com/ca/hst.html)
+- [2026 GST/HST/PST rates by province](https://abstractigakis.com/shop-tools/gst-hst-2026)
+- [Calculatrice TPS / TVH / TVP](https://abstractigakis.com/ca/tvh.html)
+- [CRA mileage allowance](https://abstractigakis.com/ca/km.html)
+- [Invoice generator](https://abstractigakis.com/ca/invoice.html)
+- [TFSA / RRSP room](https://abstractigakis.com/ca/tfsa.html)
+- [HVAC / plumbing website generator](https://abstractigakis.com/ca/build.html)
 
-$49 CAD website pack and $150/month care: https://abstractigakis.github.io/lead-machine-demo/offer.html
+$49 CAD website pack and $150/month care: https://abstractigakis.com/ca/offer.html
