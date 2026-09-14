@@ -24,6 +24,8 @@ Hub: https://abstractigakis.com/shop-tools
 - [2026 TFSA $7,000 / RRSP $33,810](https://abstractigakis.com/shop-tools/tfsa-2026)
 - [2026 CPP / EI calculator](https://abstractigakis.com/ca/cpp.html)
 - [2026 CPP, CPP2, and EI rates](https://abstractigakis.com/shop-tools/cpp-ei-2026)
+- [Calculatrice RRQ / AE 2026](https://abstractigakis.com/ca/rrq.html)
+- [Taux RRQ 2026](https://abstractigakis.com/shop-tools/rrq-2026)
 - [HVAC / plumbing website generator](https://abstractigakis.com/ca/build.html)
 
 $49 CAD website pack and $150/month care: https://abstractigakis.com/ca/offer.html
