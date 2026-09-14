@@ -2,6 +2,12 @@
 
 Vaughan, ON. I ship small tools that run in the browser.
 
+## Canada buying notes
+
+Spec filters for Amazon.ca. Not a store. Not lab tests.
+
+Hub: https://abstractigakis.com/picks
+
 ## Free Canada shop tools
 
 No login. PayPal if they helped.
