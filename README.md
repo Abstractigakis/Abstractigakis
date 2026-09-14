@@ -29,3 +29,5 @@ Hub: https://abstractigakis.com/shop-tools
 - [HVAC / plumbing website generator](https://abstractigakis.com/ca/build.html)
 
 $49 CAD website pack and $150/month care: https://abstractigakis.com/ca/offer.html
+
+2026 rates as JSON/CSV: https://abstractigakis.com/rates-2026.json · [gist](https://gist.github.com/Abstractigakis/0ff1b8ee14fe62d6cd4c7c88b5f854b2)
